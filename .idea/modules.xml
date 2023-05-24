@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../eureka-client03/eureka-client03.iml" filepath="$PROJECT_DIR$/../eureka-client03/eureka-client03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ribbon-client/ribbon-client.iml" filepath="$PROJECT_DIR$/../ribbon-client/ribbon-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springboot-order-n/springboot-order-n.iml" filepath="$PROJECT_DIR$/../springboot-order-n/springboot-order-n.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springboot-user-n/springboot-user-n.iml" filepath="$PROJECT_DIR$/../springboot-user-n/springboot-user-n.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../zuul-client/zuul-client.iml" filepath="$PROJECT_DIR$/../zuul-client/zuul-client.iml" />
+    </modules>
+  </component>
+</project>

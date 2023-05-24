@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="easymall-micro-zuul" />
+        <module name="SpringCloud" />
+        <module name="eureka-server2" />
+        <module name="eureka-server" />
+        <module name="easymall-microservice-product" />
+        <module name="springboot-user" />
+        <module name="eureka-client" />
+        <module name="springboot-user-n" />
+        <module name="eureka-client03" />
+        <module name="zuul-client" />
+        <module name="Spring-Boot-Order-User" />
+        <module name="springboot-order-n" />
+        <module name="springboot-order" />
+        <module name="easymall-common-resources" />
+        <module name="ribbon-client" />
+        <module name="easymall" />
+        <module name="easymall-common-repository" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="eureka-client03" target="1.6" />
+      <module name="ribbon-client" target="1.6" />
+      <module name="springboot-order-n" target="1.8" />
+      <module name="springboot-user-n" target="1.8" />
+      <module name="zuul-client" target="1.6" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Spring-Boot-Order-User" options="-parameters" />
+      <module name="SpringCloud" options="-parameters" />
+      <module name="easymall" options="-parameters" />
+      <module name="easymall-common-repository" options="-parameters" />
+      <module name="easymall-common-resources" options="-parameters" />
+      <module name="easymall-micro-zuul" options="-parameters" />
+      <module name="easymall-microservice-product" options="-parameters" />
+      <module name="easymall-parent" options="" />
+      <module name="eureka-client" options="-parameters" />
+      <module name="eureka-server" options="-parameters" />
+      <module name="eureka-server2" options="-parameters" />
+      <module name="springboot-order" options="-parameters" />
+      <module name="springboot-user" options="-parameters" />
+    </option>
+  </component>
+</project>
